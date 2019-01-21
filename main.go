@@ -1,13 +1,13 @@
 package main
 
 import (
-	"github.com/gocolly/colly"
 	"fmt"
+	"github.com/gocolly/colly"
 )
 
 func main() {
 	c := colly.NewCollector(
-		colly.AllowedDomains("codymaxie.com", "github.io", "lunchscore.com"),
+		colly.AllowedDomains("www.codymaxie.com"),
 	)
 
 	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
@@ -21,5 +21,5 @@ func main() {
 	})
 
 	// Visits head-fi.org and starts scraping
-	c.Visit("https://codymaxie.com")
+	c.Visit("https://www.codymaxie.com")
 }
