@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+
 	"github.com/gocolly/colly"
 )
 
@@ -20,6 +21,6 @@ func main() {
 		fmt.Println("Visiting", r.URL.String())
 	})
 
-	// Visits head-fi.org and starts scraping
+	// Visits my website and begins scraping links
 	c.Visit("https://www.codymaxie.com")
 }
