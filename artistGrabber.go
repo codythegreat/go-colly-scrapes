@@ -5,6 +5,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"os"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -32,7 +33,7 @@ func getArtistNames(link, genre string) []string {
 	}
 
 	doc.Find(".div-col.columns.column-width").Find("ul").Find("li").Find("a").Each(func(_ int, s *goquery.Selection) {
-		artists = append(artists, genre+" "+s.Text())
+		artists = append(artists, genre+" "+s.Text()+"\n")
 	})
 	return artists
 }
@@ -51,13 +52,22 @@ func getGenreLinks() {
 	if err != nil {
 		panic(err)
 	}
-
+	var results []string
 	doc.Find(".div-col.columns.column-width").Find("ul").Find("li").Find("a").Each(func(_ int, s *goquery.Selection) {
 		musicType := strings.Replace(s.Text(), "List of ", "", -1)
-		fmt.Printf("%s\n", musicType)
 		link, ok := s.Attr("href")
 		if ok {
-			fmt.Println(strings.Join(getArtistNames(link, musicType), "\n"))
+			file, err := os.Create("output.txt")
+			if err != nil {
+				panic(err)
+			}
+			defer file.Close()
+			results = append(results, getArtistNames(link, musicType)...)
+			fmt.Sprintln(results)
+			_, err = file.WriteString(fmt.Sprintln(results))
+			if err != nil {
+				panic(err)
+			}
 		}
 	})
 }
