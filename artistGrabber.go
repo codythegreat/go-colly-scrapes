@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"regexp"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -35,7 +36,13 @@ func getArtistNames(link, genre string) []string {
 	}
 
 	doc.Find(".div-col.columns.column-width ul li a").Each(func(_ int, s *goquery.Selection) {
-		artists = append(artists, genre+" "+s.Text()+"\n")
+		match, err := regexp.MatchString(`\[\d+\]`, s.Text())
+		if err != nil {
+			panic(err)
+		}
+		if match == false {
+			artists = append(artists, genre+" "+s.Text()+"\n")
+		}
 	})
 	return artists
 }
