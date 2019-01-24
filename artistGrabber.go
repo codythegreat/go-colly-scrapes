@@ -22,7 +22,9 @@ func getArtistNames(link, genre string) []string {
 	if err != nil {
 		panic(err)
 	}
+
 	defer res.Body.Close()
+
 	if res.StatusCode != 200 {
 		fmt.Printf("status code error: %s", link)
 	}
@@ -32,7 +34,7 @@ func getArtistNames(link, genre string) []string {
 		panic(err)
 	}
 
-	doc.Find(".div-col.columns.column-width").Find("ul").Find("li").Find("a").Each(func(_ int, s *goquery.Selection) {
+	doc.Find(".div-col.columns.column-width ul li a").Each(func(_ int, s *goquery.Selection) {
 		artists = append(artists, genre+" "+s.Text()+"\n")
 	})
 	return artists
@@ -43,7 +45,9 @@ func getGenreLinks() {
 	if err != nil {
 		panic(err)
 	}
+
 	defer res.Body.Close()
+
 	if res.StatusCode != 200 {
 		fmt.Println("status code error")
 	}
@@ -52,24 +56,29 @@ func getGenreLinks() {
 	if err != nil {
 		panic(err)
 	}
+
 	var results []string
-	doc.Find(".div-col.columns.column-width").Find("ul").Find("li").Find("a").Each(func(_ int, s *goquery.Selection) {
+
+	doc.Find(".div-col.columns.column-width ul li a").Each(func(_ int, s *goquery.Selection) {
 		musicType := strings.Replace(s.Text(), "List of ", "", -1)
 		link, ok := s.Attr("href")
 		if ok {
-			file, err := os.Create("output.txt")
-			if err != nil {
-				panic(err)
-			}
-			defer file.Close()
 			results = append(results, getArtistNames(link, musicType)...)
-			fmt.Sprintln(results)
-			_, err = file.WriteString(fmt.Sprintln(results))
-			if err != nil {
-				panic(err)
-			}
+
 		}
 	})
+
+	file, err := os.Create("output.txt")
+	if err != nil {
+		panic(err)
+	}
+
+	defer file.Close()
+
+	_, err = file.WriteString(fmt.Sprintln(results))
+	if err != nil {
+		panic(err)
+	}
 }
 
 func main() {
