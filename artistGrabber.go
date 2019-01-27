@@ -5,17 +5,19 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/PuerkitoBio/goquery"
 	"net/http"
 	"os"
 	"regexp"
+	"strconv"
 	"strings"
+
+	"github.com/PuerkitoBio/goquery"
 )
 
 type Artist struct {
 	Name  string
 	Genre string
-	Id    int64 `json:"ref"`
+	Id    string `json:"id"`
 }
 
 var artistData []Artist
@@ -49,8 +51,13 @@ func getArtistNames(link, genre string) []string {
 		if err != nil {
 			panic(err)
 		}
-		if match == false {
-			artist := Artist{s.Text(), genre, currentID}
+		matchList, err := regexp.MatchString(`^[Ll]ists?.*`, s.Text())
+		if err != nil {
+			panic(err)
+		}
+
+		if match == false && matchList == false {
+			artist := Artist{s.Text(), genre, strconv.FormatInt(currentID, 10)}
 			currentID++
 			artistData = append(artistData, artist)
 			artists = append(artists, genre+" "+s.Text()+"\n")

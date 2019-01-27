@@ -1546,20 +1546,6 @@
  alternative rock artists Zox
  alternative rock artists Zvuki Mu
  alternative rock artists Zwan
- alternative rock artists List of alternative metal artists
- alternative rock artists List of Britpop musicians
- alternative rock artists List of dream pop artists
- alternative rock artists List of gothic rock bands
- alternative rock artists List of grunge bands
- alternative rock artists List of indie pop artists
- alternative rock artists List of indie rock musicians
- alternative rock artists List of industrial rock bands
- alternative rock artists List of math rock groups
- alternative rock artists List of post-grunge bands
- alternative rock artists List of post-punk revival bands
- alternative rock artists List of post-rock bands
- alternative rock artists List of shoegazing musicians
- alternative rock artists Lists of musicians
  anarcho-punk bands Against Me!
  anarcho-punk bands Amebix
  anarcho-punk bands Anthrax
@@ -7236,9 +7222,6 @@
  deathcore artists With Blood Comes Cleansing
  deathcore artists Within the Ruins
  deathcore artists citation needed
- deathcore artists List of death metal bands
- deathcore artists List of metalcore bands
- deathcore artists List of hardcore punk bands
  deathcore artists v
  deathcore artists t
  deathcore artists e
@@ -13329,6 +13312,7 @@
  hip hop musicians Sarkodie
  hip hop musicians Sauce Money
  hip hop musicians Savage
+ hip hop musicians Saweetie
  hip hop musicians Scarface
  hip hop musicians Schoolboy Q
  hip hop musicians Schoolly D
@@ -39695,7 +39679,6 @@
  Swedes in music Klas Åhlund
  Swedes in music Terror 2000
  Swedes in music Therion
- Swedes in music List of Therion members
  Swedes in music Thermostatic
  Swedes in music This Ending
  Swedes in music This Perfect Day
@@ -46655,6 +46638,7 @@
  Australian composers Stephen Rae
  Australian composers Graeme Revell
  Australian composers Damien Ricketson
+ Australian composers Sir Robinson
  Australian composers John Rodgers
  Australian composers David Rumsey
  Australian composers Arline Sauer
@@ -53396,7 +53380,5 @@
  singer-songwriters Michael Jones
  singer-songwriters Matthew Tuck
  singer-songwriters Biography portal
- singer-songwriters Lists portal
  singer-songwriters Music portal
- singer-songwriters Lists of musicians
 ]
