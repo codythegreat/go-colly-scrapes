@@ -1910,7 +1910,6 @@
  blue-eyed soul artists Johnny Rivers
  blue-eyed soul artists Todd Rundgren
  blue-eyed soul artists Mitch Ryder
- blue-eyed soul artists Evie Sands
  blue-eyed soul artists Boz Scaggs
  blue-eyed soul artists Simply Red
  blue-eyed soul artists Sam Smith
@@ -7543,10 +7542,8 @@
  downtempo artists Ilya
  downtempo artists Jahcoozi
  downtempo artists James Blake
- downtempo artists Jason van Wyk
  downtempo artists Jazzanova
  downtempo artists Keep Shelly in Athens
- downtempo artists Keith Kenniff
  downtempo artists Kruder & Dorfmeister
  downtempo artists Kygo
  downtempo artists Lamb
@@ -10700,7 +10697,6 @@
  glam metal bands and artists Heaven's Edge
  glam metal bands and artists Heavy Bones
  glam metal bands and artists Helix
- glam metal bands and artists H.I.M 
  glam metal bands and artists Hollywood Rose
  glam metal bands and artists Holy Soldier
  glam metal bands and artists Honeymoon Suite
@@ -12325,7 +12321,6 @@
  hip hop musicians A.CHAL
  hip hop musicians A+
  hip hop musicians A-Q
- hip hop musicians A-A-Rav Katwala
  hip hop musicians Ab-Soul
  hip hop musicians A Boogie wit da Hoodie
  hip hop musicians Abstract Rude
@@ -13219,6 +13214,7 @@
  hip hop musicians Phyno
  hip hop musicians Pill
  hip hop musicians Pimp C
+ hip hop musicians Pink Guy
  hip hop musicians Pitbull
  hip hop musicians Planet Asia
  hip hop musicians Planetary
@@ -14452,6 +14448,7 @@
  indie pop artists Gypsy and the Cat
  indie pop artists Emily Haines
  indie pop artists Luke Haines
+ indie pop artists Half Alive
  indie pop artists Half-Handed Cloud
  indie pop artists Half Man Half Biscuit
  indie pop artists Hannah Georgas
@@ -18970,6 +18967,7 @@
  nu metal bands Stuck Mojo
  nu metal bands Sugar Ray
  nu metal bands Suicide Silence
+ nu metal bands Sumo Cyco
  nu metal bands Sunk Loto
  nu metal bands Superheist
  nu metal bands Sw1tched
@@ -18994,6 +18992,8 @@
  nu metal bands Videodrone
  nu metal bands Brian Welch
  nu metal bands Wicked Wisdom
+ nu metal bands Zebrahead
+ nu metal bands Rob Zombie
  post-dubstep musicians Chase & Status
  post-dubstep musicians Darkstar
  post-dubstep musicians Flux Pavilion
@@ -20899,7 +20899,7 @@
  psychedelic rock artists Sweetwater
  psychedelic rock artists Tangerine Dream
  psychedelic rock artists Tractor
- psychedelic rock artists Temples
+ psychedelic rock artists Ultimate Spinach
  psychedelic rock artists Vanilla Fudge
  psychedelic rock artists The West Coast Pop Art Experimental Band
  psychedelic rock artists Keith West
@@ -24195,7 +24195,6 @@
  West Coast hip hop artists Ahmad
  West Coast hip hop artists Alchemist
  West Coast hip hop artists Aminé
- West Coast hip hop artists Anderson .Paak
  West Coast hip hop artists Andre Nickatina
  West Coast hip hop artists Anotha Level
  West Coast hip hop artists Arabian Prince
@@ -24222,8 +24221,7 @@
  West Coast hip hop artists Butch Cassidy
  West Coast hip hop artists C-BO
  West Coast hip hop artists CJ Mac
- West Coast hip hop artists CPO
- West Coast hip hop artists Captain Rapp
+ West Coast hip hop artists Capital Punishment Organization
  West Coast hip hop artists Casey Veggies
  West Coast hip hop artists Cashis
  West Coast hip hop artists Celly Cel
@@ -24237,7 +24235,6 @@
  West Coast hip hop artists Cougnut
  West Coast hip hop artists Crooked I
  West Coast hip hop artists Chilly Chill
- West Coast hip hop artists Cypress Hill
  West Coast hip hop artists DJ Mustard
  West Coast hip hop artists DJ Pooh
  West Coast hip hop artists DJ Quik
@@ -24307,7 +24304,6 @@
  West Coast hip hop artists J Stalin
  West Coast hip hop artists JT the Bigga Figga
  West Coast hip hop artists J. Wells
- West Coast hip hop artists Jaden Smith
  West Coast hip hop artists Jake One
  West Coast hip hop artists Jay Rock
  West Coast hip hop artists Jayo Felony
@@ -24529,7 +24525,6 @@
  West Coast hip hop artists Yukmouth
  West Coast hip hop artists Yung Berg
  West Coast hip hop artists Zion I
- West Coast hip hop artists Zo
  banjo players Derroll Adams
  banjo players Eddie Adcock
  banjo players David "Stringbean" Akeman
@@ -25692,6 +25687,7 @@
  jazz guitarists Everett Barksdale
  jazz guitarists Junior Barnard
  jazz guitarists George Barnes
+ jazz guitarists Claude Barthélemy
  jazz guitarists Billy Bauer
  jazz guitarists Billy Bean
  jazz guitarists Gerry Beaudoin
@@ -25732,6 +25728,7 @@
  jazz guitarists Deirdre Cartwright
  jazz guitarists Al Casey
  jazz guitarists Oscar Castro-Neves
+ jazz guitarists Lauderic Caton
  jazz guitarists Philip Catherine
  jazz guitarists Franco Cerri
  jazz guitarists Eugene Chadbourne
@@ -25739,6 +25736,7 @@
  jazz guitarists Roger Chaput
  jazz guitarists Ed Cherry
  jazz guitarists Andrew Cheshire
+ jazz guitarists Pete Chilver
  jazz guitarists James Chirillo
  jazz guitarists Charlie Christian
  jazz guitarists Joe Cinderella
@@ -25755,16 +25753,20 @@
  jazz guitarists Joyce Cooling
  jazz guitarists Larry Coryell
  jazz guitarists Pete Cosey
+ jazz guitarists Henri Crolla
+ jazz guitarists Pierre Cullaz
+ jazz guitarists Rudolf Dašek
  jazz guitarists Bill DeArango
  jazz guitarists Angelo Debarre
  jazz guitarists Bob DeVos
- jazz guitarists Paco de Lucía
  jazz guitarists Al Di Meola
  jazz guitarists Joe Diorio
  jazz guitarists Diz Disley
  jazz guitarists Sacha Distel
  jazz guitarists Pat Donohue
  jazz guitarists Christy Doran
+ jazz guitarists Jim Douglas
+ jazz guitarists Pierre Dørge
  jazz guitarists Ted Dunbar
  jazz guitarists Cornell Dupree
  jazz guitarists Eddie Duran
@@ -25817,7 +25819,6 @@
  jazz guitarists David Gilmore
  jazz guitarists Egberto Gismonti
  jazz guitarists Jeff Golub
- jazz guitarists Pedro Javier Gonzalez
  jazz guitarists Mick Goodrick
  jazz guitarists Jimmy Gourley
  jazz guitarists Jack Grassel
@@ -25858,6 +25859,7 @@
  jazz guitarists Wayne Johnson
  jazz guitarists Randy Johnston
  jazz guitarists Rodney Jones
+ jazz guitarists Ronny Jordan
  jazz guitarists Stanley Jordan
  jazz guitarists Steve Jordan
  jazz guitarists John Jorgenson
@@ -25880,6 +25882,7 @@
  jazz guitarists Attila László
  jazz guitarists Nguyên Lê
  jazz guitarists Harry Leahey
+ jazz guitarists Phil Lee
  jazz guitarists Peter Leitch
  jazz guitarists Adam Levy
  jazz guitarists O'Donel Levy
@@ -25937,6 +25940,7 @@
  jazz guitarists Jordan Officer
  jazz guitarists Steve Oliver
  jazz guitarists Mary Osborne
+ jazz guitarists Wim Overgaauw
  jazz guitarists Remo Palmier
  jazz guitarists Jeff Parker
  jazz guitarists Dean Parks
@@ -25974,14 +25978,17 @@
  jazz guitarists Lee Ritenour
  jazz guitarists Howard Roberts
  jazz guitarists Duke Robillard
+ jazz guitarists Phil Robson
  jazz guitarists Adam Rogers
  jazz guitarists Romane
  jazz guitarists Jimmy Rosenberg
  jazz guitarists Stochelo Rosenberg
  jazz guitarists Kurt Rosenwinkel
  jazz guitarists Issi Rozen
+ jazz guitarists Ray Russell
  jazz guitarists Art Ryerson
  jazz guitarists Terje Rypdal
+ jazz guitarists Michael Sagmeister
  jazz guitarists Luis Salinas
  jazz guitarists Sal Salvador
  jazz guitarists Dennis Sandole
@@ -26003,12 +26010,15 @@
  jazz guitarists Brad Shepik
  jazz guitarists Jimmy Shirley
  jazz guitarists Roy Smeck
+ jazz guitarists Jarek Śmietana
  jazz guitarists Floyd Smith
  jazz guitarists Johnny Smith
  jazz guitarists Richard Smith
+ jazz guitarists Terry Smith
  jazz guitarists Fabrizio Sotti
  jazz guitarists Les Spann
  jazz guitarists Melvin Sparks
+ jazz guitarists Russ Spiegel
  jazz guitarists Peter Sprague
  jazz guitarists Chris Standring
  jazz guitarists John Stein
@@ -26028,6 +26038,7 @@
  jazz guitarists Tommy Tedesco
  jazz guitarists Toots Thielemans
  jazz guitarists René Thomas
+ jazz guitarists Jukka Tolonen
  jazz guitarists David Torn
  jazz guitarists Ralph Towner
  jazz guitarists David Tronzo
@@ -26048,8 +26059,10 @@
  jazz guitarists Lloyd Wells
  jazz guitarists Mark Whitfield
  jazz guitarists Jack Wilkins
+ jazz guitarists Staffan William-Olsson
  jazz guitarists Anthony Wilson
  jazz guitarists Stephane Wrembel
+ jazz guitarists Denny Wright
  jazz guitarists Jimmy Wyble
  slide guitarists Duane Allman
  slide guitarists Kokomo Arnold
@@ -47153,18 +47166,6 @@
  jam bands Oysterhead
  jam bands Ozric Tentacles
  jam bands O.A.R.
- jam bands Particle
- jam bands Pat McGee Band
- jam bands Paul Butterfield Blues Band
- jam bands Perpetual Groove
- jam bands Phil Lesh and Friends
- jam bands Phish
- jam bands Pigeons Playing Ping Pong
- jam bands Pink Floyd
- jam bands Polyphonic Spree
- jam bands Pnuma Trio
- jam bands Primus
- jam bands Pseudopod
  jam bands The Radiators
  jam bands Railroad Earth
  jam bands RAQ
@@ -51615,6 +51616,17 @@
  singer-songwriters Pedro Suarez Vertiz
  singer-songwriters Jose Mari Chan
  singer-songwriters Rey Valera
+ singer-songwriters Nilo Alcala
+ singer-songwriters Nicanor Abelardo
+ singer-songwriters Yoyoy Villame
+ singer-songwriters Ryan Cayabyab
+ singer-songwriters Jaya
+ singer-songwriters Ogie Alcasid
+ singer-songwriters Levi Celerio
+ singer-songwriters Rico J. Puno
+ singer-songwriters Julian Felipe
+ singer-songwriters Lucio D. San Pedro
+ singer-songwriters Max Surban
  singer-songwriters Edyta Bartosiewicz
  singer-songwriters Edyta Górniak
  singer-songwriters Katy Carr
@@ -51973,6 +51985,7 @@
  singer-songwriters Robert Wyatt
  singer-songwriters Pete Wylie
  singer-songwriters Sami Yusuf
+ singer-songwriters Cat Steven
  singer-songwriters David Ackles
  singer-songwriters Ryan Adams
  singer-songwriters Trace Adkins
@@ -52625,6 +52638,7 @@
  singer-songwriters Cody Simpson
  singer-songwriters Rob Swire
  singer-songwriters Angus and Julia Stone
+ singer-songwriters Dino Merlin
  singer-songwriters Bryan Adams
  singer-songwriters Melissa Auf der Maur
  singer-songwriters Justin Bieber
@@ -52644,6 +52658,7 @@
  singer-songwriters Skye Sweetnam
  singer-songwriters David Usher
  singer-songwriters Neil Young
+ singer-songwriters Tom Araya
  singer-songwriters Darko Rundek
  singer-songwriters Zlatan Stipišić Gibonni
  singer-songwriters Branimir Štulić
@@ -52663,6 +52678,8 @@
  singer-songwriters Udo Dirkschneider
  singer-songwriters Max Koffler
  singer-songwriters Klaus Meine
+ singer-songwriters George Lam
+ singer-songwriters Bjork
  singer-songwriters Babbu Maan
  singer-songwriters A. R. Rahman
  singer-songwriters Bono
@@ -52788,6 +52805,7 @@
  singer-songwriters Princess Velasco
  singer-songwriters Regine Velasquez
  singer-songwriters Yael Yuzon
+ singer-songwriters Alexandra Stan
  singer-songwriters Momčilo Bajagić
  singer-songwriters Đorđe Balašević
  singer-songwriters Zvonko Bogdan
@@ -52883,6 +52901,7 @@
  singer-songwriters Münir Nurettin Selçuk
  singer-songwriters Tarkan
  singer-songwriters Yıldız Tilbe
+ singer-songwriters Natalie Gioia
  singer-songwriters Adele
  singer-songwriters Sade Adu
  singer-songwriters Damon Albarn
@@ -53368,10 +53387,16 @@
  singer-songwriters Frank Zappa
  singer-songwriters Zendaya
  singer-songwriters Rob Zombie
+ singer-songwriters Pablo Sciuto
  singer-songwriters Ilan Chester
  singer-songwriters Guillermo Dávila
  singer-songwriters Aldemaro Romero
  singer-songwriters Franco De Vita
+ singer-songwriters Sơn Tùng M-TP
  singer-songwriters Michael Jones
  singer-songwriters Matthew Tuck
+ singer-songwriters Biography portal
+ singer-songwriters Lists portal
+ singer-songwriters Music portal
+ singer-songwriters Lists of musicians
 ]

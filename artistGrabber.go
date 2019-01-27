@@ -3,18 +3,28 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
+	"github.com/PuerkitoBio/goquery"
 	"net/http"
 	"os"
 	"regexp"
 	"strings"
-
-	"github.com/PuerkitoBio/goquery"
 )
+
+type Artist struct {
+	Name  string
+	Genre string
+	Id    int64 `json:"ref"`
+}
+
+var artistData []Artist
 
 const genreList string = "https://en.wikipedia.org/wiki/Lists_of_musicians?oldformat=true"
 
 var genreListLinks = make([]string, 0)
+
+var currentID int64 = 1
 
 func getArtistNames(link, genre string) []string {
 	artists := make([]string, 0)
@@ -34,13 +44,15 @@ func getArtistNames(link, genre string) []string {
 	if err != nil {
 		panic(err)
 	}
-
 	doc.Find(".div-col.columns.column-width ul li a").Each(func(_ int, s *goquery.Selection) {
 		match, err := regexp.MatchString(`\[\d+\]`, s.Text())
 		if err != nil {
 			panic(err)
 		}
 		if match == false {
+			artist := Artist{s.Text(), genre, currentID}
+			currentID++
+			artistData = append(artistData, artist)
 			artists = append(artists, genre+" "+s.Text()+"\n")
 		}
 	})
@@ -86,6 +98,13 @@ func getGenreLinks() {
 	if err != nil {
 		panic(err)
 	}
+
+	var jsonData []byte
+	jsonData, err = json.MarshalIndent(artistData, "", "	")
+	if err != nil {
+		fmt.Println(err)
+	}
+	fmt.Println(string(jsonData))
 }
 
 func main() {
